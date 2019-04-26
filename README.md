@@ -15,25 +15,31 @@ https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/Elec
 ####   Windows:
         A-Press Windows +R 
         B-Type in:  %appdata%\Electra
-        C-Delete everything EXCEPT wallet.dat and electra.conf
+        C-Delete everything EXCEPT wallet.dat, electra.conf and Backup folder
 	
     /!\ Make a copy of your wallet.dat in a safety place, better in other Hard-drive, USB stick, ect...
 
 ####   Mac:
         A- Click desktop and click on Go to folder or press Shift ⇧ + Command ⌘ + G
         B- Type ~/Library/Application Support/Electra and then click on Go
-        C- Delete everything EXCEPT wallet.dat and electra.conf
+        C- Delete everything EXCEPT wallet.dat, electra.conf and Backup folder
     
     /!\ Make a copy of your wallet.dat in a safety place, better in other Hard-drive, USB stick, ect...
 
 ### 4- Put the ElectraBootstrap.zip in this Electra folder
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571362291774390308/unknown.png">
+<img src="https://media.discordapp.net/attachments/571355273042722817/571372389297029128/unknown.png">
 
 
 ### 5- Extract the file:
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571362596486381568/unknown.png">
+-Right click on the file and "extract here
+
+OR
+
+-Open the file and drag all in /Electra folder
+
+<img src="https://media.discordapp.net/attachments/571355273042722817/571372031661309953/unknown.png">
 
 ### 6- Run the wallet v2.x
 
