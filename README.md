@@ -10,6 +10,8 @@
 
 https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/ElectraBootstrap.zip
 
+*Link update: May 03, 2019*
+
 ### 3- Open your Electra folder 
 
 ####   Windows:
