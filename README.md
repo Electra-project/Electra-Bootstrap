@@ -47,7 +47,7 @@ OR
 
 ### 7- If you think you have coins missing, restart your wallet once full sync is complete
 
-### 8- Your done! 
+### 8- You're done! 
 
 
 Disclaimer: This guide is used for informational purposes only.
