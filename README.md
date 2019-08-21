@@ -1,5 +1,7 @@
 # How to install the Bootstrap
 
+# Since the wallet version 2.1, you should sync your wallet normally and don't use the bootstrap.
+
 <p align="center">
     <img src="https://media.discordapp.net/attachments/571355273042722817/571359957568716802/ecabootstrap.jpg"
         height="200">
